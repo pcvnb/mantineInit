@@ -1,0 +1,15 @@
+export { ErrorPage } from '@/pages/Error.page';
+export { EvictionFeesPage } from '@/pages/EvictionFees.page';
+export { GuaranteedLeasesPage } from '@/pages/GuaranteedLeases.page';
+export { HomePage } from '@/pages/Home.page';
+export { MaliciousDamagesPage } from '@/pages/MaliciousDamages.page';
+export { ContactsPage } from '@/pages/Properties/Contacts.page';
+export { LeasesPage } from '@/pages/Properties/Leases.page';
+export { OwnersPage } from '@/pages/Properties/Owners.page';
+export { PropertiesPage } from '@/pages/Properties/Properties.page';
+export { PropertyPage } from '@/pages/Properties/Property.page';
+export { TenantsPage } from '@/pages/Properties/Tenants.page';
+export { UnitsPage } from '@/pages/Properties/Units.page';
+export { RentClaimsPage } from '@/pages/RentClaims.page';
+export { SettingsPage } from '@/pages/Settings.page';
+export { SupportPage } from '@/pages/Support.page';
